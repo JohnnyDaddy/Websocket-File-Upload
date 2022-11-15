@@ -1,0 +1,6 @@
+app:
+  uploadPath: C:\Dtonic\upload\socket
+
+logging:
+  level:
+    root: INFO
